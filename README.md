@@ -4,8 +4,14 @@
 - 🔭 I’m currently working on Amazon Web Services (AWS) **Create a cartoon LINE bot using AWS Bedrock and AI agent**
 
 - 📫 How to reach me **sayaliu23@gmail.com**
-
+- 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/julia-liu-38a365213/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 <p align="left">
 </p>
 
