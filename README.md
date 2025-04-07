@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Julia Liu</h1>
----
 
 ### Self-Introduction
 
