@@ -29,11 +29,3 @@ In the **Autonomous Vehicle Department**, I annotated over **1,000 images**, lea
 - **Information Intern** — *Kaohsiung City Government Information Office*  
   Participated in government digital projects involving **data analysis** and **report generation** for public sector initiatives.
 
----
-
-### 🧩 Summary
-
-These experiences have not only deepened my technical proficiency in **AI**, **cloud computing**, and **software development**, but also honed my skills in **cross-functional collaboration**, **project planning**, and **communication**.  
-In the future, I aim to continue advancing my expertise in AI and cloud applications, applying these skills to drive innovation in real-world scenarios.
-
----
