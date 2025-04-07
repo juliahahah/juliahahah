@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julia Liu</h1>
-<h3 align="center">I am currently a double major student in Political Economy and Information Management at National Sun Yat-sen University, Taiwan. I have a strong passion for Artificial Intelligence and Cloud Computing, and I’ve accumulated extensive hands-on experience through various internships and technical projects.</h3>
+---
+
+### Self-Introduction
+
+Hello! I am currently a **double major student** in **Political Economy** and **Information Management** at **National Sun Yat-sen University**, Taiwan. I have a strong passion for **Artificial Intelligence** and **Cloud Computing**, and I’ve accumulated extensive hands-on experience through various internships and technical projects.
+
+---
 
 - 🔭 I’m currently working on Amazon Web Services (AWS) **Create a cartoon LINE bot using AWS Bedrock and AI agent**
 
