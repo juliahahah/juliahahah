@@ -63,6 +63,6 @@ I am a Master's student at the Institute of Intelligent Systems (AI Division), *
 | **AWS x Chiikawa AI Agent** | Workshop materials for building AI agents using AWS Bedrock and Claude 3. | [View Repo](https://github.com/aws-educate-tw/aws-educate-chiikawa-ai-workshop) |
 | **2025 AWS Educate Taiwan AIF 衝刺班** | 雲端校園大使證照陪跑計畫 — AIF 重點整理衝刺班直播錄影。 | [▶ YouTube](https://www.youtube.com/watch?v=JGZejbBKU40&t=5318s) |
 | **AI Fashion Designer** | A virtual try-on system leveraging ControlNet and Inpainting techniques. | [View Repo](https://github.com/juliahahah/ControlNet_Fashion) |
-| **PDF RAG Benchmark** | Performance comparison of various PDF extraction tools for RAG pipelines. | [View Repo](#) |
+| **PDF RAG Benchmark** | Performance comparison of various PDF extraction tools for RAG pipelines. | [View Repo](#https://github.com/juliahahah/pdf-rag-extraction-benchmark) |
 
 ---
