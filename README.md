@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julia Liu (Yi-wen Liu)</h1>
+<h1 align="center">Hi 👋, I'm Julia Liu </h1>
 
 <p align="center">
   <b>MS Student in AI @ NYCU | AI Engineer Intern | AWS Campus Ambassador</b>
