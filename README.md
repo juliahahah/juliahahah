@@ -19,8 +19,6 @@
 
 I am a Master's student at the Institute of Intelligent Systems (AI Division), **National Yang Ming Chiao Tung University ()**. My core research and practical implementations focus on **Large Language Models (RAG)**, **Computer Vision (CV)**, and **Robotics Simulation (NVIDIA Isaac Sim)**.
 
-- 🎓 **Education:** - **:** M.S. in Intelligent Systems (AI Division)
-  - **NSYSU:** B.S. in Information Management & Political Economy (Double Major)
 - 💼 **Experience:**
   - **U.S. Capital:** AI Research Intern (Quantitative Trading & LLM)
   - **Foxconn:** AI Engineer Intern
