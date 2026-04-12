@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julia Liu </h1>
 
 <p align="center">
-  <b>MS Student in AI @ NYCU | AI Engineer Intern | AWS Campus Ambassador</b>
+  <b>MS Student in AI | AI Engineer Intern | AWS Campus Ambassador</b>
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 ### 🧬 About Me
 
-I am a Master's student at the Institute of Intelligent Systems (AI Division), **National Yang Ming Chiao Tung University (NYCU)**. My core research and practical implementations focus on **Large Language Models (RAG)**, **Computer Vision (CV)**, and **Robotics Simulation (NVIDIA Isaac Sim)**.
+I am a Master's student at the Institute of Intelligent Systems (AI Division), **National Yang Ming Chiao Tung University ()**. My core research and practical implementations focus on **Large Language Models (RAG)**, **Computer Vision (CV)**, and **Robotics Simulation (NVIDIA Isaac Sim)**.
 
-- 🎓 **Education:** - **NYCU:** M.S. in Intelligent Systems (AI Division)
+- 🎓 **Education:** - **:** M.S. in Intelligent Systems (AI Division)
   - **NSYSU:** B.S. in Information Management & Political Economy (Double Major)
 - 💼 **Experience:**
   - **U.S. Capital:** AI Research Intern (Quantitative Trading & LLM)
